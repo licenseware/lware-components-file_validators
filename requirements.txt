@@ -1,0 +1,2 @@
+#git+ssh://git@github.com/licenseware/lware-components-file_validators.git
+git+https://git@github.com/licenseware/lware-components-file_validators.git
